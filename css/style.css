@@ -57,7 +57,8 @@ body{
 }
 
 .btn:hover{
-    letter-spacing: .2rem;
+    /* letter-spacing: .2rem; */
+    color: var(--black);
 }
 
 section{
@@ -104,7 +105,7 @@ section{
 
 .header .navbar a:hover{
     color: var(--main-color);
-    border-bottom: .1rem solid var(--main-color);
+    /* border-bottom: .1rem solid var(--main-color); */
     padding-bottom: .5rem;
 }
 
